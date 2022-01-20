@@ -6,6 +6,7 @@
 - 📍 I’m From Russia (Saint-Petersburg)
 - 💻 I am studying to be an QA Engineer
 - 👨‍💻 My mentor <b>[Vadim Ksendzov]</b>
+- 💼 My <b>[HomeWorks]</b>
 
 ### 🤝 Connect with me:
 
@@ -29,3 +30,4 @@
 [mail]: mailto:pyataevis@vk.com
 [github]: https://github.com/kaioChoo
 [Vadim Ksendzov]: https://ksendzov.com/
+[HomeWorks]: https://github.com/kaioChoo/ksendzov_group_26
